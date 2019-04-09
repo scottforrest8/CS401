@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/AArray.h
+IArray.h
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/IArray.h
+iostream
+-
+
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/CArray.h
+AArray.h
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/AArray.h
+iostream
+-
+
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/IArray.h
+
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/SArray.h
+AArray.h
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/AArray.h
+iostream
+-
+
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_test0.cpp
+iostream
+-
+../SArray.h
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/SArray.h
+../CArray.h
+/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/CArray.h
+

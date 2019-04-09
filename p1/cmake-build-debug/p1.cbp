@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="p1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="publicbonus_rectangle">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/publicbonus_rectangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 publicbonus_rectangle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="publicbonus_rectangle/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/publicbonus_rectangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 publicbonus_rectangle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="publicbonus_circle">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/publicbonus_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 publicbonus_circle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="publicbonus_circle/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/publicbonus_circle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 publicbonus_circle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_test1">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_test1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_test1/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_test1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_test0">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_test0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_test0"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_test0/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_test0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_test0/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_iter0">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_iter0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_iter0"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_iter0/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_iter0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_iter0/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_iter1">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_iter1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_iter1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_iter1/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_iter1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_iter1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_1000000">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_1000000" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_1000000"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="public_1000000/fast">
+				<Option output="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug/public_1000000" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 public_1000000/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/NEW/Desktop/Spring\ 2019/CS401/cs401workspace/p1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_1000000.cpp">
+			<Option target="public_1000000"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_iter0.cpp">
+			<Option target="public_iter0"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_iter1.cpp">
+			<Option target="public_iter1"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_test0.cpp">
+			<Option target="public_test0"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/public_test1.cpp">
+			<Option target="public_test1"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/publicbonus_circle.cpp">
+			<Option target="publicbonus_circle"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/tests/publicbonus_rectangle.cpp">
+			<Option target="publicbonus_rectangle"/>
+		</Unit>
+		<Unit filename="/Users/NEW/Desktop/Spring 2019/CS401/cs401workspace/p1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
